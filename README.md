@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/guilds/IntelAI/draw" width="600" />
+    <img src="https://render.gitanimals.org/guilds/829895026409453279/draw" width="600" />
   </a>
 </div>
