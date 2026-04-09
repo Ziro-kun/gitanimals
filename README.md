@@ -1,12 +1,7 @@
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/Ziro-kun" width="600" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://render.gitanimals.org/farms/Ziro-kun" width="600" />
+</p>
 
-<br />
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/guilds/829895026409453279/draw?v=1" />
-</a>
-    </a>
+<p align="center">
+  <img src="https://render.gitanimals.org/guilds/829895026409453279/draw" width="600" />
+</p>
