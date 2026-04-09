@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://render.gitanimals.org/guilds/829895026409453279/draw?v=5" width="600" />
+  <img src="https://render.gitanimals.org/guilds/829895026409453279/draw?v=6" width="600" />
 </p>
