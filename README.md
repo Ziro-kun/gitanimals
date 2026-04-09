@@ -6,11 +6,7 @@
 
 <br />
 
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/829895026409453279/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/guilds/829895026409453279/draw?v=1" />
+</a>
     </a>
